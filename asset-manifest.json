@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/matrix-game/static/css/main.e6c13ad2.css",
+    "main.js": "/matrix-game/static/js/main.4d8445eb.js",
+    "static/js/453.2728f8c6.chunk.js": "/matrix-game/static/js/453.2728f8c6.chunk.js",
+    "index.html": "/matrix-game/index.html",
+    "main.e6c13ad2.css.map": "/matrix-game/static/css/main.e6c13ad2.css.map",
+    "main.4d8445eb.js.map": "/matrix-game/static/js/main.4d8445eb.js.map",
+    "453.2728f8c6.chunk.js.map": "/matrix-game/static/js/453.2728f8c6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.4d8445eb.js"
+  ]
+}
